@@ -1,0 +1,19 @@
+Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+regulation of leukocyte degranulation	02-Sep	3,78E-06	1,23E-04	0	0	1142,057143	14260,84232	"STXBP2;UNC13D"
+regulation of myeloid leukocyte mediated immunity 	02-Nov	5,77E-06	1,25E-04	0	0	888,1777778	10714,52566	"STXBP2;UNC13D"
+positive regulation of regulated secretory pathway 	Feb-16	1,26E-05	1,63E-04	0	0	570,8285714	6441,320131	"RAB27A;UNC13D"
+melanosome organization	Feb-23	2,65E-05	2,87E-04	0	0	380,4190476	4009,396253	"AP3B1;LYST"
+positive regulation of exocytosis 	Feb-34	5,86E-05	5,44E-04	0	0	249,5125	2431,478295	"RAB27A;UNC13D"
+regulation of regulated secretory pathway	Feb-37	6,95E-05	5,65E-04	0	0	228,0914286	2183,712167	"RAB27A;UNC13D"
+regulation of intracellular transport 	Feb-40	8,14E-05	5,88E-04	0	0	210,0526316	1977,927109	"STXBP2;UNC13D"
+regulation of exocytosis	Feb-51	1,33E-04	7,22E-04	0	0	162,8081633	1453,350008	"RAB27A;UNC13D"
+positive regulation of secretion by cell	Feb-52	1,38E-04	7,22E-04	0	0	159,544	1417,980729	"RAB27A;UNC13D"
+protein transport	3/326	1,43E-04	7,22E-04	0	0	45,67337461	404,311334	"RAB27A;AP3B1;STX11"
+cellular protein localization	3/327	1,44E-04	7,22E-04	0	0	45,53009259	402,6302273	"RAB27A;AP3B1;STX11"
+intracellular protein transport	3/347	1,72E-04	7,99E-04	0	0	42,83938953	371,3134725	"RAB27A;AP3B1;STX11"
+neutrophil degranulation	3/479	4,45E-04	0,001784988	0	0	30,75157563	237,3435464	"STXBP2;RAB27A;UNC13D"
+neutrophil activation involved in immune response	3/483	4,56E-04	0,001784988	0	0	30,4890625	234,5737686	"STXBP2;RAB27A;UNC13D"
+neutrophil mediated immunity	3/487	4,67E-04	0,001784988	0	0	30,23088843	231,8563232	"STXBP2;RAB27A;UNC13D"
+immunological synapse formation	01-Jun	0,002098387	0,007178693	0	0	666,2666667	4108,590826	PRF1
+positive regulation of killing of cells of other organism	01-Jul	0,002447753	0,007955199	0	0	555,1944444	3338,153583	PRF1
+secretory granule organization	01-Sep	0,003146172	0,009295508	0	0	416,3541667	2398,853181	LYST
